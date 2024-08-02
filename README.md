@@ -1,7 +1,7 @@
 # Analisis-de-mercado-Videojuegos
 __Análisis del mercado de los videojuegos, visualización de datos avanzada, análisis exploratorio y estadístico, prueba de hipótesis__
 
-<image src="https://github.com/BastianLQ/Analisis-Estadistico-Megaline/blob/main/N4.jpg" alt="Collage de gráficos">
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/N6.jpg" alt="Collage de gráficos">
 
 _Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Estad%C3%ADstico%20Megaline.html)_
 
