@@ -3,7 +3,7 @@ __Análisis del mercado de los videojuegos, visualización de datos avanzada, an
 
 <image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/N6.jpg" alt="Collage de gráficos">
 
-_Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Estad%C3%ADstico%20Megaline.html)_
+_Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20de%20mercado%20Videojuegos.html)_
 
 ## Descripción del proyecto
 Este proyecto se enfoca en analizar datos del mercado de los videojuegos para entender las tendencias en la preferencia de juegos por consola, realizar predicciones sobre consolas dominantes, y llevar a cabo un análisis estadístico de las ventas de juegos. Además, se calculó la correlación entre calificaciones y ventas, se analizaron diferencias entre juegos de géneros populares e impopulares, y se trazó un perfil de consumidor para tres regiones importantes. Finalmente, se realizaron dos pruebas de hipótesis para validar los hallazgos.
@@ -29,5 +29,5 @@ Este proyecto se enfoca en analizar datos del mercado de los videojuegos para en
 ## Conclusiones
 __El análisis del mercado de videojuegos proporcionó insights valiosos sobre las preferencias de los consumidores y las tendencias del mercado. Estos hallazgos pueden ser utilizados para informar estrategias de marketing, desarrollo de productos y planificación de ventas.__.
 
-## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Estad%C3%ADstico%20Megaline.html)
+## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20de%20mercado%20Videojuegos.html)
 Para ver el __diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones__, haga click en el enlace de arriba
