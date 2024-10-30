@@ -11,7 +11,7 @@ Este proyecto se enfoca en analizar datos del mercado de los videojuegos (hasta 
 ## Herramientas Utilizadas
 - __Lenguaje de Programación:__ Python.
 - __Entorno de Desarrollo:__ Jupyter Notebook.
-- __Bibliotecas:__ pandas, numpy, matplotlib, seaborn, scipy, math.
+- __Bibliotecas:__ Pandas, Numpy, Matplotlib, Seaborn, Scipy, Math.
   
 ## Proceso del Proyecto
 - __Preanalisis de los datos:__ Esta fase contempló todos los preparativos, importación de librerías, limpieza, etc. que se realizaron antes de empezar con el análisis.
