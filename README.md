@@ -24,7 +24,7 @@ Este proyecto se enfoca en analizar datos del mercado de los videojuegos (hasta 
 - __Pruebas de hipótesis:__ Mediante pruebas t, se comprueban estadísticamente dos hipótesis planteadas al inicio del informe sobre el consumo de videojuegos.
 - __Resultados:__ Al final del informe se rescatan las conclusiones más importantes encontradas durante el desarrollo del proyecto.
   
-## Conclusiones
+## Relevancia de los descubrimientos
 El análisis del mercado de videojuegos proporcionó insights valiosos sobre las preferencias de los consumidores y las tendencias del mercado. Estos hallazgos pueden ser utilizados para informar estrategias de marketing, desarrollo de productos y planificación de ventas.
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20de%20mercado%20Videojuegos.html)
