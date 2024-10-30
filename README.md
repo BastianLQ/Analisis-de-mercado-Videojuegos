@@ -14,20 +14,18 @@ Este proyecto se enfoca en analizar datos del mercado de los videojuegos para en
 - __Bibliotecas:__ pandas, numpy, matplotlib, seaborn, scipy, math.
   
 ## Proceso del Proyecto
-- Extracción de Datos: Los datos fueron extraídos de un dataset que contiene información del mercado de los videojuegos.
-- Limpieza de Datos: Se llevaron a cabo operaciones de limpieza, como el manejo de valores nulos y la normalización de datos.
-- Análisis Exploratorio de Datos (EDA): Se exploraron los datos para obtener una comprensión inicial utilizando pandas y numpy.
-- Visualización de Datos: Se crearon gráficos con matplotlib y seaborn para visualizar las diferencias entre los dos planes.
-- Análisis Estadístico: __Se aplicaron métodos de estadística descriptiva para analizar los datos de manera más profunda__.
-- Predicciones: Se realizaron predicciones sobre las consolas dominantes en el mercado de videojuegos.
-- Correlación: Se calculó la correlación entre las calificaciones y las ventas de los juegos.
-- Análisis de Géneros: Se evaluaron las diferencias entre juegos de géneros populares e impopulares.
-- Perfil de Consumidor: Se trazó un perfil de consumidor para tres regiones importantes.
-- Prueba de Hipótesis: __Se realizó una prueba de hipótesis para determinar si las diferencias observadas entre los dos planes eran estadísticamente significativas__.
-- Resultados: Se presentaron los hallazgos clave y se ofrecieron recomendaciones sobre la inversión en publicidad.
+- __Preanalisis de los datos:__ .
+- __Análisis de los datos:__ .
+  - __Análisis exploratorio de datos:__ .
+  - __Correlación:__ .
+  - __Plataformas populares:__ .
+  - __Géneros populares:__
+- __Perfil de usuario para cada región:__ .
+- __Pruebas de hipótesis:__ .
+- __Resultados:__ .
   
 ## Conclusiones
-__El análisis del mercado de videojuegos proporcionó insights valiosos sobre las preferencias de los consumidores y las tendencias del mercado. Estos hallazgos pueden ser utilizados para informar estrategias de marketing, desarrollo de productos y planificación de ventas.__.
+El análisis del mercado de videojuegos proporcionó insights valiosos sobre las preferencias de los consumidores y las tendencias del mercado. Estos hallazgos pueden ser utilizados para informar estrategias de marketing, desarrollo de productos y planificación de ventas.
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20de%20mercado%20Videojuegos.html)
-Para ver el __diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones__, haga click en el enlace de arriba
+Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
