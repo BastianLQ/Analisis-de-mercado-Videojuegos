@@ -9,9 +9,9 @@ _Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https:/
 Este proyecto se enfoca en analizar datos del mercado de los videojuegos para entender las tendencias en la preferencia de juegos por consola, realizar predicciones sobre consolas dominantes, y llevar a cabo un análisis estadístico de las ventas de juegos. Además, se calculó la correlación entre calificaciones y ventas, se analizaron diferencias entre juegos de géneros populares e impopulares, y se trazó un perfil de consumidor para tres regiones importantes. Finalmente, se realizaron dos pruebas de hipótesis para validar los hallazgos.
   
 ## Herramientas Utilizadas
-- Lenguaje de Programación: __Python__
-- Entorno de Desarrollo: __Jupyter Notebook__
-- Bibliotecas: __pandas, numpy, matplotlib, seaborn, scipy, math__
+- __Lenguaje de Programación:__ Python.
+- __Entorno de Desarrollo:__ Jupyter Notebook.
+- __Bibliotecas:__ pandas, numpy, matplotlib, seaborn, scipy, math.
   
 ## Proceso del Proyecto
 - Extracción de Datos: Los datos fueron extraídos de un dataset que contiene información del mercado de los videojuegos.
