@@ -21,7 +21,7 @@ Este proyecto se enfoca en analizar datos del mercado de los videojuegos (hasta 
   - __Plataformas populares:__ Se eligieron juegos populares y se comparó la venta entre distintas plataformas.
   - __Géneros populares:__ Se hicieron divisiones según la popularidad de los géneros y se compararon las calificaciones (de la crítica y de usuario) entre los grupos.
 - __Perfil de usuario para cada región:__ Se analizaron los de consumo de videojuegos de cada región estudiada (norteamérica, unión europea y japón).
-- __Pruebas de hipótesis:__ Mediante pruebas t, se comprueban estadísticamente dos hipótesis planteadas al inicio del informe sobre el consumo de videojuegos.
+- __Pruebas de hipótesis:__ Usando pruebas de Mann-Whitney, se comprueban estadísticamente dos hipótesis planteadas al inicio del informe sobre el consumo de videojuegos.
 - __Resultados:__ Al final del informe se rescatan las conclusiones más importantes encontradas durante el desarrollo del proyecto.
   
 ## Relevancia de los descubrimientos
