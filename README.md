@@ -44,6 +44,7 @@ Del presente gráfico se puede apreciar que las plataformas de PlayStation, Xbox
 Tomando en cuenta la información recolectada anteriormente, __se analizarán los juegos lanzados desde 2013 en adelante, de esta forma podremos saber qué plataformas están en camino a despegar, cuales no lo están haciendo, y cuales están bajando su popularidad__.
 
 ### Plataformas potencialmente rentables
+Se visualizarán las ventas históricas de juegos de las 5 consolas más populares entre 2010 y 2015, las que vayan en tendencia ascendente serán consideradas como potencialmente rentables.
 
 <image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_52_0.png" alt="gráfico">
 
