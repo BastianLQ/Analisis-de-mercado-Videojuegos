@@ -1,7 +1,7 @@
 # Análisis y pronóstico de mercado: Ice Games
 __Análisis del mercado de los videojuegos, visualización de datos avanzada, análisis exploratorio y estadístico, prueba de hipótesis__
 
-<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Picture.jpg" alt="Collage de gráficos">
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/banner.png" alt="Collage de gráficos">
 
 _Para ver proyecto desarrollo en código hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P6.html)_
 
