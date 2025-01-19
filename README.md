@@ -30,5 +30,19 @@ Este proyecto se enfoca en analizar datos del mercado de los videojuegos (hasta 
 
 <image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_38_0.png" alt="gráfico">
 
+Se observa la cantidad de videojuegos lanzados por año, podemos apreciar que desde 1995 se superan los 200 juegos lanzados por año y que desde el 2001 se superan los 400, haciendo que los datos recopilados sean significativos para un análisis. Además podemos notar un periodo record en 2008 y 2009, en donde se lanzaron más de 1400 juegos a la venta.
+
+#### Análisis de plataformas
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_42_0.png" alt="gráfico">
+
+A partir del gráfico anterior se seleccionaron las 5 primeras plataformas (por ser las más rentables en cuanto a venta de videojuegos) y se analizaron, por año, el ingreso de cada una.
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_44_0.png" alt="gráfico">
+
+Del presente gráfico se puede apreciar que las plataformas de PlayStation, Xbox y la Nintendo DS, __se demoran entre dos a tres años en tomar una posición sólida en el mercado, donde se mantienen por entre cuatro a cinco años__. La Nintendo Wii se muestra como una excepción, ya que muestra un peak muy alto en 2009 y después se desploma brúscamente.
+
+Tomando en cuenta la información recolectada anteriormente, __se analizarán los juegos lanzados desde 2013 en adelante, de esta forma podremos saber qué plataformas están en camino a despegar, cuales no lo están haciendo, y cuales están bajando su popularidad__.
+
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P6.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
