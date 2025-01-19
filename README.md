@@ -25,14 +25,13 @@ Este proyecto se enfoca en analizar datos del mercado de los videojuegos (hasta 
 - __Resultados:__ Al final del informe se rescatan las conclusiones más importantes encontradas durante el desarrollo del proyecto.
   
 ## Descubrimientos revelantes
-### Análisis de datos
-#### Juegos lanzados por año
+### Juegos lanzados por año
 
 <image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_38_0.png" alt="gráfico">
 
 Se observa la cantidad de videojuegos lanzados por año, podemos apreciar que desde 1995 se superan los 200 juegos lanzados por año y que desde el 2001 se superan los 400, haciendo que los datos recopilados sean significativos para un análisis. Además podemos notar un periodo record en 2008 y 2009, en donde se lanzaron más de 1400 juegos a la venta.
 
-#### Análisis de plataformas
+### Análisis de plataformas
 
 <image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_42_0.png" alt="gráfico">
 
@@ -44,7 +43,7 @@ Del presente gráfico se puede apreciar que las plataformas de PlayStation, Xbox
 
 Tomando en cuenta la información recolectada anteriormente, __se analizarán los juegos lanzados desde 2013 en adelante, de esta forma podremos saber qué plataformas están en camino a despegar, cuales no lo están haciendo, y cuales están bajando su popularidad__.
 
-#### Plataformas potencialmente rentables
+### Plataformas potencialmente rentables
 
 <image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_52_0.png" alt="gráfico">
 
