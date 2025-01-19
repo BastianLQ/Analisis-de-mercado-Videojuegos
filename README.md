@@ -25,7 +25,10 @@ Este proyecto se enfoca en analizar datos del mercado de los videojuegos (hasta 
 - __Resultados:__ Al final del informe se rescatan las conclusiones más importantes encontradas durante el desarrollo del proyecto.
   
 ## Descubrimientos revelantes
-El análisis del mercado de videojuegos proporcionó insights valiosos sobre las preferencias de los consumidores y las tendencias del mercado. Estos hallazgos pueden ser utilizados para informar estrategias de marketing, desarrollo de productos y planificación de ventas.
+### Análisis de datos
+#### Juegos lanzados por año
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_38_0.png" alt="gráfico">
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P6.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
