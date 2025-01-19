@@ -52,5 +52,10 @@ El gráfico muestra que __las plataformas potencialmente rentables son PS4 y Xbo
 
 __En el caso de PS3 y Xbox 360, podemos ver una caída rápida desde que aparecen las sucesoras (PS4 y Xbox One), lo que puede significar que serán plataformas muy exitosas hasta que sean reemplazadas por sus respectivas sucesoras__ en 2019/2020 aproximadamente, tomando en cuenta que entre el lanzamiento de PS2 y PS3 hay 6 años, y entre PS3 y PS4 hay 7 años de diferencia. En el caso de Xbox, entre la 360 y la One también hay 7 años de diferencia.
 
+### Ventas de todos los juegos
+
+- El porcentaje de juegos del catálogo que sobrepasa el __millón de dólares__ en ventas es un 12%.
+- El porcentaje de juegos del catálogo que sobrepasa los __cinco millones de dólares__ en vemtas es de un 1%.
+
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P6.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
