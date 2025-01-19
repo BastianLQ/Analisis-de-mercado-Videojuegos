@@ -58,6 +58,8 @@ Realicé un análisis estadístico de las ventas generales de videojuegos y obtu
 - El porcentaje de juegos del catálogo que sobrepasa el __millón de dólares__ en ventas es un 12%.
 - El porcentaje de juegos del catálogo que sobrepasa los __cinco millones de dólares__ en vemtas es de un 1%.
 
+Podemos explorar más en los siguientes gráficos de caja.
+
 <image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_58_0.png" alt="gráfico">
 
 <image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_58_1.png" alt="gráfico">
