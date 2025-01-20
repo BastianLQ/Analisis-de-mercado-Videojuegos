@@ -82,9 +82,22 @@ Este gráfico muestra que las medianas en ventas son parejas, salvo por la 3DS q
 ### Correlación entre calificaciones y ventas: PS4
 Se analizaron las correlaciones entre calificaciones de usuario y de la crítica, con las ventas. En cuanto a las calificaciones de usuario, el coeficiente de correlación fue de -0.03, lo cual indica que no existe ningún tipo de correlación. Analizando la correlación de las las calificaciones de la crítica, podemos encontrar un coeficiente de correlación de 0.4, lo cual indica una correlación leve.
 
-<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_74_1.png" alt="gráfico">
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_82_0.png" alt="gráfico">
 
 __La correlación se aprecia sobre todo en los juegos más exitosos, que solo tienen calificaciones por sobre los 75 puntos__. Esto quiere decir que una calificación alta de la crítica no garantiza un rotundo éxito del juego, pero, una calificación baja si garantiza que el juego no será un "best seller".
+
+### Comparación en venta de juegos populares: PlayStation versus Xbox
+Debido a que han sido las principales marcas en el mercado de las consolas, se hará una comparación de ventas de _best sellers_ entre PlayStation y Xbox.
+
+#### PS3 vs. Xbox 360
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_86_0.png" alt="gráfico">
+
+Como se puede apreciar, __ambas plataformas están muy parejas salvo en G.T.A. 5 y en Minecraft__, donde se inclina la preferencia de los usuarios hacia una de las dos consolas. Cabe destacar que la única instancia en que Xbox supera claramente a Playstation es en ventas de Minecraft, un juego de categoría `Misc`, esto puede indicar que dependiendo el genero del juego, los usuarios usarán una consola u otra.
+
+#### PS4 vs. Xbox One
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_74_1.png" alt="gráfico">
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P6.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
