@@ -67,8 +67,19 @@ Para continuar con el análisis de la distribución de ventas, se presentan grá
 
 <image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_60_0.png" alt="gráfico">
 
+Este gráfico está enfocado en los valores atípicos, muestra que la X360 y la PS3 tienen más _best sellers_ que el resto, mientras que de la nueva ola de plataformas, __destacan la 3DS y la PS4__. Ahora se procederá con el gráfico de caja.
+
 <image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_62_0.png" alt="gráfico">
 
+Este gráfico muestra que las medianas en ventas son parejas, salvo por la 3DS que se queda atrás en la distribución. Exploraremos ahora, las medias por consola:
+
+- __X360:__ 0.74 Millones de dólares.
+- __PS3:__ 0.53 Millones de dólares.
+- __PS4:__ 0.8 Millones de dólares.
+- __3DS:__ 0.47 Millones de dólares.
+- __X360:__ 0.65 Millones de dólares.
+
+### Correlación entre calificaciones y ventas: PS4
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P6.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
