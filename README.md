@@ -80,6 +80,9 @@ Este gráfico muestra que las medianas en ventas son parejas, salvo por la 3DS q
 - __X360:__ 0.65 Millones de dólares.
 
 ### Correlación entre calificaciones y ventas: PS4
+Se analizaron las correlaciones entre calificaciones de usuario y de la crítica, con las ventas. En cuanto a las calificaciones de usuario, el coeficiente de correlación fue de -0.03, lo cual indica que no existe ningún tipo de correlación. Analizando la correlación de las las calificaciones de la crítica, podemos encontrar un coeficiente de correlación de 0.4, lo cual indica una correlación leve.
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_74_1.png" alt="gráfico">
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P6.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
