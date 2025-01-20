@@ -53,16 +53,22 @@ El gráfico muestra que __las plataformas potencialmente rentables son PS4 y Xbo
 __En el caso de PS3 y Xbox 360, podemos ver una caída rápida desde que aparecen las sucesoras (PS4 y Xbox One), lo que puede significar que serán plataformas muy exitosas hasta que sean reemplazadas por sus respectivas sucesoras__ en 2019/2020 aproximadamente, tomando en cuenta que entre el lanzamiento de PS2 y PS3 hay 6 años, y entre PS3 y PS4 hay 7 años de diferencia. En el caso de Xbox, entre la 360 y la One también hay 7 años de diferencia.
 
 ### Ventas de todos los juegos
-Realicé un análisis estadístico de las ventas generales de videojuegos y obtuve los siguientes insights.
-
-- El porcentaje de juegos del catálogo que sobrepasa el __millón de dólares__ en ventas es un 12%.
-- El porcentaje de juegos del catálogo que sobrepasa los __cinco millones de dólares__ en vemtas es de un 1%.
-
-Podemos explorar más en los siguientes gráficos de caja.
+Podemos explorar estadísticamente en los siguientes gráficos de caja.
 
 <image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_58_0.png" alt="gráfico">
 
 <image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_58_1.png" alt="gráfico">
+
+- El promedio de ventas de un juego vendido por esta tienda es de $488.000 dólares, y la mediana de $110.000 dólares.
+
+En cuanto a las ventas totales, __se observa una media muy superior a la mediana y una distribución que nos indica que la proporción de valores atípicos es muy baja, sin embargo estos soy muy altos__. Los calulos indical que de todos los juegos lanzados a la venta entre 2013 y 2016 __un 12% superó el millon de dólares en ventas y apenas un 1% superó los 5 millones__.
+
+Para continuar con el análisis de la distribución de ventas, se presentan gráficos de dispersión y de caja por plataforma para las consolas más populares.
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_60_0.png" alt="gráfico">
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_62_0.png" alt="gráfico">
+
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P6.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
