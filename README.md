@@ -99,5 +99,13 @@ Como se puede apreciar, __ambas plataformas están muy parejas salvo en G.T.A. 5
 
 <image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_86_0.png" alt="gráfico">
 
+En este gráfico __se aprecia claramente la superioridad en ventas de juegos de la PS4 por sobre su rival__, aunque se debe tener claro que los juegos del top son casi todos de la categoría `Shooter` a excepción de G.T.A. 5 que es de Acción, sin embargo son categorías similares.
+
+### Distribución de juegos por género
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_89_0.png" alt="gráfico">
+
+En base al gráfico de arriba __se clasificarán las plataformas como populares e impopulares, siendo seleccionadas las cuatro primeras y las cuatro últimas en ventas, respectivamente__.
+
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P6.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
