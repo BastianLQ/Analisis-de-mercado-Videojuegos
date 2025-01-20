@@ -84,7 +84,7 @@ Se analizaron las correlaciones entre calificaciones de usuario y de la crítica
 
 <image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_74_1.png" alt="gráfico">
 
-La correlación se aprecia sobre todo en los juegos más exitosos, que solo tienen calificaciones por sobre los 75 puntos__. Esto quiere decir que una calificación alta de la crítica no garantiza un rotundo éxito del juego, pero, una calificación baja si garantiza que el juego no será un "best seller".
+__La correlación se aprecia sobre todo en los juegos más exitosos, que solo tienen calificaciones por sobre los 75 puntos__. Esto quiere decir que una calificación alta de la crítica no garantiza un rotundo éxito del juego, pero, una calificación baja si garantiza que el juego no será un "best seller".
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P6.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
