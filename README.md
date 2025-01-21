@@ -121,5 +121,15 @@ Los jugadores de generos impopulares prefieren __la 3DS y el PC__, sobre las dem
 
 #### Diferencias en la calificación según popularidad
 
+Se trazaron gráficos de caja para comparar las distribuciones de las calificaciones por popularidad, se empieza con las calificaciones de la crítica.
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_103_0.png" alt="gráfico">
+
+No hay muchas diferencias en cuanto a la distribución de las calificaciones de la crítica.
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_105_0.png" alt="gráfico">
+
+El gráfico muestra que, sorprendentemente, __las calificaciones de usuario para generos impopulares superan a las de los géneros populares__, esto puede deberse a que los jugadores de géneros no tan masivos son un nicho pequeño, pero muy fiel a los juegos/sagas.
+
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P6.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
