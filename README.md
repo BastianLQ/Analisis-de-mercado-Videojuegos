@@ -131,5 +131,49 @@ No hay muchas diferencias en cuanto a la distribución de las calificaciones de 
 
 El gráfico muestra que, sorprendentemente, __las calificaciones de usuario para generos impopulares superan a las de los géneros populares__, esto puede deberse a que los jugadores de géneros no tan masivos son un nicho pequeño, pero muy fiel a los juegos/sagas.
 
+### Perfil de usuario para cada región
+Para obtener un perfil de usuario para cada región, se recopilará información sobre los géneros más jugados, las plataformas preferidas (y sus variaciones en las cuotas de mercado con las otras regiones) y las clasificaciones ESRB de los 50 juegos más jugados.
+
+#### Norteamérica
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_111_0.png" alt="gráfico">
+
+ __La consola preferida en Norteamérica es la PlayStation 4, seguida de las Xbox__. Ahora se comparará la popularidad de estas plataformas en las otras regiones.
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_113_0.png" alt="gráfico">
+
+__Norteamérica es la región donde las Xbox tienen mayor presencia__, probablemente debido a que es un producto estadounidense. __En japón casi no se compran juegos de Xbox__.
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_115_0.png" alt="gráfico">
+
+En cuanto a géneros preferidos, __los consumidores de Norteamérica prefieren notoriamente los juegos de acción y los shooter__.
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_117_0.png" alt="gráfico">
+
+Una gran mayoría prefiere juegos para mayores de 17 años.
+
+#### Unión europea
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_121_0.png" alt="gráfico">
+
+Con marcada diferencia, __la plataforma mas popular es la PS4, se aprecia que en la UE prefieren las PlayStation antes que las Xbox__. Ahora se comparará la popularidad de estas plataformas en las otras regiones.
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_124_0.png" alt="gráfico">
+
+La UE es la región donde más se compran juegos de PS4.
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_124_0.png" alt="gráfico">
+
+Al igual que en norteamérica, los géneros favoritos son `Action` y `Shooter`.
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_127_0.png" alt="gráfico">
+
+__El orden es el mismo que para la región de norteamérica__, siendo los juegos para mayores de 17 años, los favoritos.
+
+#### Japón
+
+
+
+
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P6.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
