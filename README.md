@@ -172,8 +172,21 @@ __El orden es el mismo que para la región de norteamérica__, siendo los juegos
 
 #### Japón
 
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_133_0.png" alt="gráfico">
 
+En cuanto a preferencia de consolas, __el top 5 de esta región son todas consolas de compañías japonesas. La consola favorita de los japoneses es la Nintendo 3DS y en tercer lugar tenemos la PlayStation Vita, ambas son consolas portátiles__, lo cual es indicio de que los "gamers" japoneses se comportan de manera diferente a los del resto de las regiones. Ahora se comparará la popularidad de estas plataformas en las otras regiones.
 
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_136_0.png" alt="gráfico">
+
+Japón es donde más se venden juegos de 3DS y de PSV, esto confirma que __las consolas portátiles son muy populares en el público nipón__.
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_139_0.png" alt="gráfico">
+
+La categoría `Role-Playing` es la favorita del público japonés, mientras que los `Shooter` populares de otras regiones se ven desplazados al 5 lugar.
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_141_0.png" alt="gráfico">
+
+En japón, los juegos para todas las edades son más populares que en las otras regiones, lo que indica que hay _gamers_ de todas las edades con gustos variados.
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P6.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
