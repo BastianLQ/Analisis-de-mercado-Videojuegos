@@ -105,7 +105,21 @@ En este gráfico __se aprecia claramente la superioridad en ventas de juegos de 
 
 <image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_89_0.png" alt="gráfico">
 
-En base al gráfico de arriba __se clasificarán las plataformas como populares e impopulares, siendo seleccionadas las cuatro primeras y las cuatro últimas en ventas, respectivamente__.
+En base al gráfico de arriba __se clasificarán las plataformas como populares e impopulares, siendo seleccionadas las cuatro primeras y las cuatro últimas en ventas, respectivamente__, se graficará cuáles son las plataformas más populares para cada grupo.
+
+#### Géneros populares
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_95_0.png" alt="gráfico">
+
+__La PS4 es notoriamente la plataforma mas rentable para los géneros populares__.
+
+#### Géneros impopulares
+
+<image src="https://github.com/BastianLQ/Analisis-de-mercado-Videojuegos/blob/main/Images/output_95_0.png" alt="gráfico">
+
+Los jugadores de generos impopulares prefieren __la 3DS y el PC__, sobre las demás opciones.
+
+#### Diferencias en la calificación según popularidad
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P6.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
